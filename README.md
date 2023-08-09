@@ -3,7 +3,7 @@
  
  
  
-![Gnome 44](https://github.com/RobotDaniel/dotfiles/assets/101746899/294c5bae-e807-4a9b-9260-cc98221b38f3)
+![Gnome 44](https://github.com/RobotDaniel/dotfiles/blob/54cda1e815b82ceb3fcd8326225a5a2c61cb97dc/Screenshot%20from%202023-07-28%2010-35-19.png)
 
 ## Gnome extensions
 - Activites Filled Pill
